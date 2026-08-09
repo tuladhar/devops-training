@@ -1,4 +1,4 @@
-# Personal DevOps 1-on-1 Training — Enrollment Challenge
+# Personal DevOps Training — Enrollment Challenge
 
 Before new DevOps coaching enrollments are accepted, candidates must complete the following challenges.
 
