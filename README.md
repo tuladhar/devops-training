@@ -15,23 +15,25 @@ Basic Linux (Ubuntu) tasks, relevant to DevOps:
 
 Challenge URL: https://labs.iximiuz.com/challenges/linux-basics-every-devops-needs-to-know-e8fcf935
 
-## Python Programming
+## Programming
 
 Basic challenges relevant to DevOps:
 
-- Use Python's `http` library to test if a website is up (simple 200 OK check) for `purutuladhar.com`.
-- Use Python's `https`/SSL library to check the SSL certificate expiry date — when will it expire?
+- Use any programming language to check if a website is up by reading the HTTP status code — confirm it's `200 OK` for `https://purutuladhar.com`.
 
 ## Bash
 
-- Download a log file containing errors (provided as a Gist), and output only the error log lines.
+A sample log file containing a mix of `INFO`, `WARN`, and `ERROR` lines is provided at [`logs/app.log`](logs/app.log). Output only the `ERROR` log lines (hint: `grep`).
 
 ## Terminal Knowledge
 
-- Run `ls -lh do-such-file.txt` in the terminal, and report the exit status code.
-- Create a directory called `devops`, with subdirectories `linux` and `kubernetes`. In the `linux` directory, create a file `kernel.txt` containing:
-  - The current version of the Linux kernel, from https://www.kernel.org/
-  - The current latest version of Kubernetes, from https://kubernetes.io/releases/
+- Run `ls -lh no-such-file.txt` (a file that does not exist) and show the exit status code. Then run `ls -lh README.md` and show that exit code too — explain why they differ.
+- Create a directory tree in one command: a `devops` directory with subdirectories `linux` and `kubernetes` (hint: `mkdir -p`). Verify the structure with `tree devops`.
+- In the `devops/linux` directory, create a file `kernel.txt` containing:
+  - The current stable version of the Linux kernel, from https://www.keleases/
+- Redirect and append: write the current date to `devops/current-date.txt` using `>`, then append your username (`whoami`) to the same file usinernel.org/
+- In the `devops/kubernetes` directory, create a file `k8s.txt` containing:
+  - The current latest version of Kubernetes, from https://kubernetes.io/rg `>>`.
 
 ## Git Version Control
 
