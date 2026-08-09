@@ -1,4 +1,4 @@
-# Personal DevOps Training — Enrollment Challenge
+# DevOps Training — Enrollment Challenge
 
 Before new enrollments are accepted for training, students must complete the following challenges.
 
