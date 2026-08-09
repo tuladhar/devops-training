@@ -1,6 +1,8 @@
 # Personal DevOps Training — Enrollment Challenge
 
-Before new DevOps coaching enrollments are accepted, candidates must complete the following challenges.
+Before new enrollments are accepted for training, students must complete the following challenges.
+
+You will be given a Google drive, where you will put screenshot of your work.
 
 ## Operating System
 
