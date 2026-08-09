@@ -1,6 +1,6 @@
 # DevOps Training — Enrollment Challenge
 
-Before new enrollments are accepted for training, students must complete the following challenges.
+Before new enrollments are accepted for for [DevOps as Career]([url](https://purutuladhar.com/virtual-cohort)) or [DevOps Coaching & Mentorship]([url](https://purutuladhar.com/virtual-cohort)) training, students must complete the following challenges.
 
 You will be given a Google drive, where you will put screenshot of your work.
 
