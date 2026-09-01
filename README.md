@@ -15,7 +15,7 @@ Basic Linux (Ubuntu) tasks, relevant to DevOps:
 - How much disk space is available?
 - How long (time) has this machine been up/running?
 
-Challenge URL: https://labs.iximiuz.com/challenges/linux-basics-every-devops-needs-to-know-e8fcf935
+Challenge URL: https://killercoda.com/playgrounds/scenario/ubuntu
 
 ## Programming
 
